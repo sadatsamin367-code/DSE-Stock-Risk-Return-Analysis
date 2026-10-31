@@ -22,7 +22,7 @@ The raw file needed cleaning. 184 trading days appeared twice, and many dates be
 
 Everything is a live Excel formula, so you can click any cell and see how it was calculated. The risk-free rate (8%) is a placeholder in the Assumptions sheet. Change it and every Sharpe ratio updates.
 
-## Key metrics
+## Portfolios vs individual stocks
 ![Key metrics](metrics.png)
 
 ## Risk vs return
